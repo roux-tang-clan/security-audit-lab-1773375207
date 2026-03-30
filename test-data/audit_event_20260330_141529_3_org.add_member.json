@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-03-30T14:14:49.313366Z",
+  "actor": "ghostface312",
+  "action": "org.add_member",
+  "target": "new-hire-jeff",
+  "target_type": "User",
+  "organization": "roux-tang-clan",
+  "details": "User 'ghostface312' performed 'org.add_member' on User 'new-hire-jeff'."
+}
