@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-01T09:20:29.856920Z",
+  "actor": "ghostface312",
+  "action": "repo.destroy",
+  "target": "project-phoenix-9753",
+  "target_type": "Repository",
+  "organization": "roux-tang-clan",
+  "details": "User 'ghostface312' performed 'repo.destroy' on Repository 'project-phoenix-9753'."
+}
